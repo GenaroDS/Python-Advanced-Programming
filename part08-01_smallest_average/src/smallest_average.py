@@ -16,3 +16,4 @@ if __name__ == "__main__":
     person2 = {"name": "Gary", "result1": 5, "result2": 1, "result3": 8}
     person3 = {"name": "Larry", "result1": 3, "result2": 1, "result3": 1}
     print(smallest_average(person1, person2, person3))
+#Name correct
