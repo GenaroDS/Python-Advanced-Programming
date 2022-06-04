@@ -1,5 +1,5 @@
 # ÄLÄ MUUTA ALLA OLEVAA LUOKKAA Kirja
-# Kirjoita ratkaisui Kirja-luokan jälkeen
+# Kirjoita ratkaisui Kirja-luokan jälkeen.
 
 class Book:
     def __init__(self, name: str, author: str, genre: str, year: int):

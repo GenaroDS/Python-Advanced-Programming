@@ -1,5 +1,5 @@
 # DO NOT CHANGE CLASS Book!
-# Write your solution after the class!
+# Write your solution after the class!.
 
 class Book:
     def __init__(self, name: str, author: str, genre: str, year: int):
