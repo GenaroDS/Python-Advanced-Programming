@@ -12,6 +12,11 @@ class Book:
     def __repr__(self):
         return f"{self.name} ({self.author}), {self.year} - genre: {self.genre}"
 
-
+def books_of_genre(books:list, genre:str):
+    newList = []
+    for book in books:
+        if book.genre == genre:
+            newList.append(book)
+    return newList
 # -----------------------------
 # tee ratkaisu tänne

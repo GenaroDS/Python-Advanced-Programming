@@ -8,6 +8,17 @@ class Book:
         self.genre = genre 
         self.year = year
 
+def older_book(book1: Book, book2: Book):
+    if book1.year < book2.year:
+        return print(f"{book1.name} is older, it was published in {book1.year}")
+    elif book2.year < book1.year:
+        return print(f"{book2.name} is older, it was published in {book2.year}")
+    else:
+        return print(f"{book1.name} and {book2.name} were published in {book1.year}") 
+
+
+
+
 # -----------------------------
 # Write your solution here
 # -----------------------------
