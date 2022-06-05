@@ -1,3 +1,4 @@
+# Author: -GDS
 # Write your solution here
 def smallest_average(person1: dict, person2: dict, person3: dict):
     total1 = (person1["result1"] + person1["result2"] + person1["result3"]) / 3

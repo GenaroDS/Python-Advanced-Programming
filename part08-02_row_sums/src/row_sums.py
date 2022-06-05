@@ -1,3 +1,4 @@
+# Author: -GDS
 # Write your solution here
 def row_sums(my_matrix: list):
     for lista in my_matrix:
