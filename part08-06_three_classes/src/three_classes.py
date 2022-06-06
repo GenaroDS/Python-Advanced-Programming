@@ -19,3 +19,4 @@ class Cable:
         self.length = length
         self.max_speed = max_speed
         self.bidirectional = bidirectional
+
