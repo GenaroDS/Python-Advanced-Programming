@@ -5,7 +5,16 @@ class Car:
         self.make = make
         self.top_speed = top_speed
 
-   def __str__(self):
+    def __str__(self):
         return f"Car (make: {self.make}, top speed: {self.top_speed})"
 
 # WRITE YOUR SOLUTION HERE:
+def fastest_car(cars:list):
+    topspeed = 0
+    carrito = ""
+    for car in cars:
+        if car.top_speed > topspeed:
+            topspeed = car.top_speed
+            carrito = car.make
+    return carrito
+
