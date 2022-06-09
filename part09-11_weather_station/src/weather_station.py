@@ -1,5 +1,4 @@
 # WRITE YOUR SOLUTION HERE:
-from tokenize import String
 
 
 class WeatherStation:
