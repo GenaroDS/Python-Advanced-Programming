@@ -9,3 +9,12 @@ class Rectangle:
 
     def area(self):
         return self.width * self.height
+
+class Square(Rectangle):
+    def __init__(self, width: int):
+        self.width = width
+        self.height = 0 
+    def area(self):
+        return self.width*self.width
+    def __str__(self):
+        return f"square {self.width}x{self.width}"
