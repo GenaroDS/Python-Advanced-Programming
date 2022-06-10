@@ -1,6 +1,4 @@
 # Write your solution here:
-from turtle import window_height
-
 
 class Item:
     def __init__(self, name : str, weight : int):
