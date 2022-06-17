@@ -1,248 +1,248 @@
 course = 'mooc-programming-22'
 [exercises.part08-01_smallest_average]
 id = 151794
-checksum = '410f610d3ff3ce8a650d600030803749'
+checksum = '7b173687bf0adebc4a486a68f6c32031'
 
 [exercises.part08-02_row_sums]
 id = 151807
-checksum = '5c0de1525604edb33138c995e63b8080'
+checksum = 'd9973e48318dc29c3327e7897d41ec80'
 
 [exercises.part08-03_list_years]
 id = 151795
-checksum = '3501874c384f7705e81dadf2cbdf3d14'
+checksum = '34204b1e729dbe3f9e230ece01aff8bb'
 
 [exercises.part08-04_shopping_list]
 id = 151808
-checksum = '6766c18b4a9c2f7acdca5c9fbbd5e263'
+checksum = 'ae99378be7d856870fd842230850b805'
 
 [exercises.part08-05_book]
 id = 151805
-checksum = '1912bb8fd388e5e41818cd49b22dc158'
+checksum = 'aac905bf98e296530348a26ce1d62953'
 
 [exercises.part08-06_three_classes]
 id = 151806
-checksum = '2cbe958dda2f33a7e9c0951fcc802a7e'
+checksum = 'db0a8040524583a0b511483cf1ce31a0'
 
 [exercises.part08-07_pet]
 id = 151796
-checksum = '15792625405a01b0971c2e08fe67c36b'
+checksum = 'b7a475be3b4f573b0e662c62d56c53db'
 
 [exercises.part08-08_older_book]
 id = 151802
-checksum = '424aebf2c4f37a1d6113f0db9bed036f'
+checksum = 'ec8edbf83ca00f4ec521f446208bbb97'
 
 [exercises.part08-09_books_of_genre]
 id = 151797
-checksum = 'cbd935124a06fc24fa011a9f44ec6beb'
+checksum = '165e5f2115dd96a6d877e999e8122ff8'
 
 [exercises.part08-10_decreasing_counter]
 id = 151799
-checksum = 'c7e5c3295e6ac033f4ff87c637e98b2f'
+checksum = 'baa34ecdf760cdde32cc3fbdf5536d12'
 
 [exercises.part08-11_first_and_last_name]
 id = 151800
-checksum = '6deebb6ec8c5ed50cd92dfba8920e522'
+checksum = 'b106215b92f30bfe45dab2b229bc4fa7'
 
 [exercises.part08-12_number_stats]
 id = 151801
-checksum = 'dcd6bfeb99bf4863f1a8749cb4e90842'
+checksum = '7b15d1eb9de2227eea1a319ac5a9b71b'
 
 [exercises.part08-13_stopwatch]
 id = 151804
-checksum = '5d8f9cabfbdd609eabdd9e905c43d0b5'
+checksum = '2d59af6633c662644f62bddb79d2a0ce'
 
 [exercises.part08-14_clock]
 id = 151803
-checksum = '8b686468e32861775da59198a9da47b3'
+checksum = '9326d9c6edfc221351a6d919b01f4b54'
 
 [exercises.part08-15_lunchcard]
 id = 151809
-checksum = '44d990b297fc2210fffa0f29c2dba69d'
+checksum = 'de1dd39ddb02a80fc5ac43d905a0207f'
 
 [exercises.part08-16_series]
 id = 151798
-checksum = '42cfa88ce7361368b083dbefcec4212f'
+checksum = 'd1fc655b9b727405a5421cb9d36ecf43'
 
 [exercises.part09-01_fastest_car]
 id = 151863
-checksum = 'f74f2e3d5a975d0bc679eb542bdb198f'
+checksum = '5c92c0748d08f4c30991ab9ce461af58'
 
 [exercises.part09-02_passing_submissions]
 id = 151862
-checksum = 'ea5a4ac1212709dc3e3c49ef87654e02'
+checksum = 'fd62c8b5668c6554acbea13cc44efc44'
 
 [exercises.part09-03_baby_centre]
 id = 151855
-checksum = '5f5be9c521f2aa90fbbcb106a9e92471'
+checksum = '8a1920343eb9a76b20da5a1108c9e6df'
 
 [exercises.part09-04_lunchcard_and_paymentterminal]
 id = 151850
-checksum = '8d2a36f90178e6a9fcc184b91be8d415'
+checksum = 'cffc0c94e6e88b59f6e9e39b459fa812'
 
 [exercises.part09-05_comparing_properties]
 id = 151857
-checksum = 'b1c0fc489d625e012494876739415658'
+checksum = 'f84df8c676e5754e99578443bc6ec385'
 
 [exercises.part09-06_pets]
 id = 151858
-checksum = '3e8a2f8f9dd7837c99c6d333bf261494'
+checksum = '5d59bed6b1812f2810cb8cce176f953f'
 
 [exercises.part09-07_box_of_presents]
 id = 151849
-checksum = 'be80e5cebdee0276d8986e5216150665'
+checksum = '12134adc29f90795f814b7b6148f84b9'
 
 [exercises.part09-08_shortest_in_room]
 id = 151860
-checksum = 'ed96ecb08e34b32cf1963b392ee9a8f1'
+checksum = '79b612f68fabb9ce422ad4233f2c3b6a'
 
 [exercises.part09-09_car]
 id = 151859
-checksum = 'c4866594aebc767e84145eebb36f332e'
+checksum = '2b97108b7802ff72a4ab794926e817ef'
 
 [exercises.part09-10_recording]
 id = 151852
-checksum = 'e65493a25736d7d5ffe4770c831280a8'
+checksum = 'b0bb4fa38607ad2760e9cfdffed939c7'
 
 [exercises.part09-11_weather_station]
 id = 151854
-checksum = '4ea9d78a52c0a0816a27a3f3153a6b1f'
+checksum = '4c95dfa9122553c816af249dd6fda33e'
 
 [exercises.part09-12_service_charge]
 id = 151856
-checksum = 'a28328ed9b4a23780e4e3407f795cea8'
+checksum = 'f5f0fb9cdd5ba3769ce46030f7b298b7'
 
 [exercises.part09-13_postcodes]
 id = 151861
-checksum = 'c38ef8c8e47bc2b4ac4ca7e0b5206898'
+checksum = 'a664fc51b4042799d0a122f494da72d4'
 
 [exercises.part09-14_list_helper]
 id = 151853
-checksum = '382e684d51996d2531499bf0fa3264eb'
+checksum = '60cae6fb12085068d1effba1b960f411'
 
 [exercises.part09-15_item_suitcase_hold]
 id = 151851
-checksum = 'bba8512b0e3d30f0250e7501cf5d4b08'
+checksum = 'bdd6915f15109656401f5537b2184017'
 
 [exercises.part10-01_laptop_computer]
 id = 151846
-checksum = '78be1cb53b03eb258f7461f39fb12c98'
+checksum = 'd3cc52fa293407a3b9f5c530048c6985'
 
 [exercises.part10-02_game_museum]
 id = 151844
-checksum = '7b9e08ff47b8c1e89178c50cd9cc7c5a'
+checksum = 'd6879c3d7ab4bb5ba9f8ef1a71dc764f'
 
 [exercises.part10-03_areas]
 id = 151848
-checksum = '35ac4603d6dd34dd88488a88d02da5f9'
+checksum = '92a26ec165d30412af3fbe6677403e4d'
 
 [exercises.part10-04_word_game]
 id = 151838
-checksum = '92afee985f7ffaaf88b41bb0cc28f5f1'
+checksum = 'b7b87f0778c36c81eee64a27c7630687'
 
 [exercises.part10-05_supergroup]
 id = 151839
-checksum = 'c0a6a5404e8c9cd42654bb345a2054fd'
+checksum = 'ebcf56154970a9cb56641f058c3f17fa'
 
 [exercises.part10-06_secret_magic_potion]
 id = 151841
-checksum = 'ca0ae4740045e4e63fc610c3594f7f04'
+checksum = '046fc36f18233f55c136b4600ec18f63'
 
 [exercises.part10-07_money]
 id = 151842
-checksum = '9c52b0ba03abf7006156e061c58ea68b'
+checksum = '212544ea576eee1770f3086785f65777'
 
 [exercises.part10-08_simple_date]
 id = 151840
-checksum = '17e66e204c330caaffc5bf18e2934832'
+checksum = 'ad28172a510aca1589d837c613eade56'
 
 [exercises.part10-09_iterable_shopping_list]
 id = 151843
-checksum = 'ff261252934f25cfae098c9663831bdd'
+checksum = 'c855e3a427bc472ab5a07c066a19b0ea'
 
 [exercises.part10-10_phone_book_v1]
 id = 151847
-checksum = '1fc4af758544bada881ea424fdce9cfe'
+checksum = 'dc5a7c94c16f7c320e5bfb8c1bee6c39'
 
 [exercises.part10-11_phone_book_v2]
 id = 151845
-checksum = '8f878e93da89f2aef21bceec70249cee'
+checksum = '2d92548a10df72760f7c2960b4be8bbb'
 
 [exercises.part10-12_course_records]
 id = 151837
-checksum = '596b1834b0a944a9fe413fed8b07433f'
+checksum = '91b224b1823a1142dc1d57cbde900236'
 
 [exercises.part11-01_square_roots]
 id = 151955
-checksum = '3bae2659361d6e5afe68177f0fde791d'
+checksum = 'aa89bedc5e9cc11c587b93e539f8b1c2'
 
 [exercises.part11-02_rows_of_stars]
 id = 151965
-checksum = '59942ea557ea56f8e70bd1d363055e44'
+checksum = 'bf4aa1d7a69a143e2f8ddd0b12c1286f'
 
 [exercises.part11-03_best_exam_result]
 id = 151953
-checksum = 'ecf486baa4659a9bc3e97b45e89bf342'
+checksum = 'a37ac598e08fbcf8b25be7aa7064a231'
 
 [exercises.part11-04_lengths]
 id = 151947
-checksum = '48b25d944a756abe869b625d8edb7002'
+checksum = '5a1263bb32ac4aa0db5801511e0a3973'
 
 [exercises.part11-05_remove_smaller_than]
 id = 151949
-checksum = 'ed36d0c0cb4a1e1e726605d5a41d9cc0'
+checksum = 'c243265ad147fe0bd92f4ed08ec7ca6f'
 
 [exercises.part11-06_begin_with_vowel]
 id = 151952
-checksum = 'd7b489a56edc6fa00c5b573b64cb1afb'
+checksum = 'b5f245549c4c4d62a5be4ff919a4bf79'
 
 [exercises.part11-07_lottery_numbers]
 id = 151963
-checksum = '6769682aba1236241a432fb38d5d0531'
+checksum = '41b87e13580750598d62029525aa4db6'
 
 [exercises.part11-08_filter_forbidden]
 id = 151962
-checksum = '4bc9cf30b7f4444c69d040ad9ee61b0d'
+checksum = '6ef0aa880963298a468d92bb1f762693'
 
 [exercises.part11-09_products_in_shopping_list]
 id = 151948
-checksum = 'f96e64138cc83fbdc56842af9e8a98d3'
+checksum = '43a878e513b194b3072f26bda69bd91d'
 
 [exercises.part11-10_cheaper_properties]
 id = 151951
-checksum = 'fe1a9e876b1b06f32c8191c9a718068a'
+checksum = '18a35ddac39ea62be37dea9bd0734312'
 
 [exercises.part11-11_lengths_of_strings]
 id = 151958
-checksum = '414f8c7b1f064dd2c516f1ff0b45098c'
+checksum = '7e3f1f525627981c335ec23aba5734b2'
 
 [exercises.part11-12_most_common_words]
 id = 151957
-checksum = 'b2dd2b389f0c254d6df91ae7e8a20f02'
+checksum = '4fc32fa9f8bf47c341a55c4d3717a174'
 
 [exercises.part11-13_add_numbers_to_list]
 id = 151950
-checksum = '266c7b59b656f17c455bf3eb90c80106'
+checksum = 'e6226316f83a082d991e092284aa720a'
 
 [exercises.part11-14_recursive_sum]
 id = 151961
-checksum = '9d6ed6af8064bfb8fd1c690dc0ffc550'
+checksum = '2f280dc698875bf799a65abd90f3a63e'
 
 [exercises.part11-15_balanced_brackets]
 id = 151964
-checksum = 'f74ca29943145f685f9d4925c2393cd5'
+checksum = '41d56498626fbe6122f101166d772f35'
 
 [exercises.part11-16_greatest_node]
 id = 151960
-checksum = 'e14f62efc6d8516e300c1dc555fe030b'
+checksum = '5cca20881ca5fa9afd7ef04b63ea9eb0'
 
 [exercises.part11-17_bosses_and_subordinates]
 id = 151956
-checksum = 'a87bd264a8fc89f83d3963a74cd2fbf4'
+checksum = '419d0b10001105bf92ecdc7bdb6ff862'
 
 [exercises.part11-18_order_book]
 id = 151954
-checksum = '30ee044e23cc1a1c26d69995a3ffff33'
+checksum = '2cd3d260a4e0da79abde62bb82b8d5c0'
 
 [exercises.part11-19_order_book_application]
 id = 151959
-checksum = 'bd631833f22f109c3befacd2fe7c0fd3'
+checksum = 'd45965a0805ce4c77715e8f53925b4ad'

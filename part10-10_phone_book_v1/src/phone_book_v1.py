@@ -1,4 +1,7 @@
 # WRITE YOUR SOLUTION HERE:
+from webbrowser import get
+
+
 class PhoneBook:
     def __init__(self):
         self.__persons = {}
@@ -15,6 +18,17 @@ class PhoneBook:
             return None
         return self.__persons[name]
 
+    def get_names(self, number: str):
+        names = []
+        for k, v in self.__persons.items():
+            for numbers in v:
+                if numbers == number:
+                    names.append(k)
+        if names:
+            return names
+        else:
+            names = "unknown number"
+            return names
 
     def all_entries(self):
         return self.__persons
@@ -53,6 +67,7 @@ class PhoneBookApplication:
         print("0 exit")
         print("1 add entry")
         print("2 search")
+        print("3 sarch by number")
 
     def add_entry(self):
         name = input("name: ")
@@ -67,6 +82,11 @@ class PhoneBookApplication:
             return
         for number in numbers:
             print(number)
+
+    def searchByNumber(self):
+        number = input("number: ")
+        names = self.__phonebook.get_names(number)       
+        print(names)
 
     def exit(self):
         self.__filehandler.save_file(self.__phonebook.all_entries())
@@ -84,6 +104,8 @@ class PhoneBookApplication:
                 self.add_entry()
             elif command == "2":
                 self.search()
+            elif command == "3":
+                self.searchByNumber()   
             else:
                 self.help()
 
