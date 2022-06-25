@@ -9,3 +9,10 @@ class ExamResult:
     def __str__(self):
         return (f'Name:{self.name}, grade1: {self.grade1}' +
             f', grade2: {self.grade2}, grade3: {self.grade3}')
+
+    def highest(self):
+        newList = [self.grade1, self.grade2, self.grade3]
+        return max(newList)
+
+def best_results(results: list):
+    return [(lista.highest()) for lista in results]
