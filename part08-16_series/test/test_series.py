@@ -96,7 +96,7 @@ s.rate(5)
             s.rate(5)
 
         except Exception as e:
-            self.fail(f'Executing code\n{code}\threw an error\n{e}\nCheck that method rate(self, arvosana: int) is defined.')
+            self.fail(f'Executing code\n{code}\threw an error\n{e}\nCheck that method rate(self, rating: int) is defined.')
 
     @points('8.series_part2')
     def test5_rate(self):
@@ -193,7 +193,7 @@ vastaus = minimum_grade(4.5, series)
         except:
             self.fail(f"Check that the following code can be executed\n{code}")
         
-        self.assertTrue(type(answer) == list, "Function minimum_grade(arvosana: float, series: list) should return a list")
+        self.assertTrue(type(answer) == list, "Function minimum_grade(rating: float, series: list) should return a list")
 
         expected = 1
         self.assertTrue(len(answer)==expected, f"When this code is executed\n{code}\nthe length of the list returned should be {expected}, however, it was {len(answer)}")
