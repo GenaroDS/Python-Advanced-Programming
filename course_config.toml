@@ -153,7 +153,7 @@ checksum = '212544ea576eee1770f3086785f65777'
 
 [exercises.part10-08_simple_date]
 id = 151840
-checksum = 'ad28172a510aca1589d837c613eade56'
+checksum = 'a582e1778b169d42b0abe96dfe3cf7a3'
 
 [exercises.part10-09_iterable_shopping_list]
 id = 151843
@@ -269,7 +269,7 @@ checksum = '44b2d24ab6b7543f226b0370f7bb8ab8'
 
 [exercises.part12-06_ballplayers]
 id = 151921
-checksum = 'd04620e71b6b5e5c119c75660d998482'
+checksum = '66751d7b1f1206f49e0f8cf920dda0f3'
 
 [exercises.part12-07_product_search]
 id = 151922
@@ -301,7 +301,7 @@ checksum = '2c73405c7e8fa8681666fe563fd7aa7d'
 
 [exercises.part12-14_regular_expressions]
 id = 151924
-checksum = 'c7f99f4ba9fa49ff31bae25a66c9fd69'
+checksum = '45f5764fda4e31c2570e0d8295e26434'
 
 [exercises.part12-15_hockey_statistics]
 id = 151915

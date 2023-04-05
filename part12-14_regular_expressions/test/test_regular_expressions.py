@@ -90,9 +90,9 @@ block. The following line must be moved:
     @points('12.regular_expressions_part2')
     def test_3c_test_with_values(self):
         from src.regular_expressions import all_vowels
-        test_cases = "aaa eee iii oo uu yy aeee ioioi aioioä oyoyuaå aab aec ooooaeoip aaaaabo".split()
+        test_cases = "aaa eee iii oo uu yy aeee ioioi aioio ooua aab aec ooooaeoip aaaaabo".split()
         for test_case in test_cases:
-            corr = len([x for x in test_case if x not in "aeiouy"]) == 0
+            corr = len([x for x in test_case if x not in "aeiou"]) == 0
             val = all_vowels(test_case)
 
             self.assertEqual(val, corr, f'Function all_vowels should return {corr}\n' + 

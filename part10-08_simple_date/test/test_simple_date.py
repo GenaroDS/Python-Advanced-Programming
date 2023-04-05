@@ -120,7 +120,7 @@ block. The following row should be moved:
             corr = (tv1 > tv2)
             val = (sd1 > sd2)
             stmt = "sd1 > sd2"
-            met_name = "__lt__"
+            met_name = "__gt__"
 
             self.assertEqual(val, corr, f'Value of expression\n{stmt}\nshould be ' +
                 f'{corr},  when objects are initialized as:\n'
