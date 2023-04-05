@@ -14,14 +14,22 @@ class BallPlayer:
 
 # Write your solution here
 def most_goals(players : list):
-    lista = sorted(players, key = lambda player: player.goals)
+    lista = sorted(players, key = lambda player: player.goals, reverse=True)
     return lista[0].nimi
 
-player1 = BallPlayer("Archie Bonkers", 13, 5, 12, 46)
-player2 = BallPlayer("Speedy Tickets", 7, 2, 26, 55)
-player3 = BallPlayer("Cruella De Hill", 9, 1, 32, 26)
-player4 = BallPlayer("Devilled Tasmanian", 12, 1, 11, 41)
-player5 = BallPlayer("Donald Quack", 4, 3, 9, 12)
+def most_points(players):
+    list = []
+    for player in players:
+        total_points = player.goals + player.passes
+        list.append((player, total_points))
     
-team = [player1, player2, player3, player4, player5]
-print(most_goals(team))
+    lista = sorted(list, key = lambda player: player[1], reverse=True)
+    return (lista[0][0].nimi,lista[0][0].number)
+
+def least_minutes(players):
+    list = []
+    for player in players:
+        list.append((player, player.minutes))
+    
+    lista = sorted(list, key = lambda player: player[1])
+    return (lista[0][0])
